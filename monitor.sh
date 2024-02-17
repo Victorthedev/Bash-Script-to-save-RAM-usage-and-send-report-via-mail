@@ -1,12 +1,7 @@
 #!/bin/bash
 
 memory_file="/home/vagrant/memo/memo.txt"
-email_address="ubahakweemeka@gmail.com"
-
-smtp_relay="smtp.gmail.com"
-smtp_port="465"
-smtp_user="ubahakweemeka@gmail.com"
-smtp_pass="cdczovwwmgfxmber"
+email_address="alphasaintnuel@gmail.com"
 
 usage() {
 	current_time=$(date +"%Y-%m-%d %H:%M:%S")
